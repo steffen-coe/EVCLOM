@@ -1,0 +1,14 @@
+# steffen common parameters
+axes.grid           : True
+axes.linewidth      : 1
+axes.axisbelow      : True
+errorbar.capsize    : 2
+#font.family         : sans-serif
+font.size           : 12.0
+#text.latex.preamble : \usepackage[utf8]{inputenc}
+xtick.major.width   : 1
+xtick.major.size    : 5.5
+ytick.major.width   : 1
+ytick.major.size    : 5.5
+
+#valid strings are [u'bf', u'bb', u'default', u'tt', u'circled', u'frak', u'it', u'regular', u'cal', u'rm', u'sf', u'scr']
